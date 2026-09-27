@@ -1,0 +1,6 @@
+{
+  "name": "Khan Law Associates - Advocates & Legal Consultants",
+  "description": "Premier legal chamber in Bangladesh offering professional legal consultation, civil & criminal litigation, corporate law, banking advisory, and client-focused legal representation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
